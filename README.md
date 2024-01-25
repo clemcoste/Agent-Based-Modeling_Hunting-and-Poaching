@@ -1,5 +1,9 @@
 # Agent Based Modeling - Hunting and Poaching on boars and wolves
 
+## INTERFACE EXAMPLE
+
+![alt text](https://github.com/clemcoste/Agent-Based-Modeling_Hunting-and-Poaching/blob/main/interface_example.jpg?raw=true)
+
 ## WHAT IS IT?
 
 The model is about hunting, poaching and species reproduction. It tends to show the impact of hunting and/or poaching on two kind of species : one considered as pest and very invasive (boars) and one which is protected (wolves).
