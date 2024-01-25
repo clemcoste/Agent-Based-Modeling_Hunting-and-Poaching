@@ -2,7 +2,7 @@
 
 ## INTERFACE EXAMPLE
 
-![alt text](https://github.com/clemcoste/Agent-Based-Modeling_Hunting-and-Poaching/blob/main/interface_example.jpg?raw=true)
+![alt text](https://github.com/clemcoste/Agent-Based-Modeling_Hunting-and-Poaching/blob/main/interface_example.png?raw=true)
 
 ## WHAT IS IT?
 
